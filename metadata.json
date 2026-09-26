@@ -1,0 +1,6 @@
+{
+  "name": "LONDON HEISTALE: The Hatton Garden Robbery",
+  "description": "An Undertale-inspired PS1 retro interactive RPG experience with authentic 8-bit sound effects, character dialogue chatter, branching choices, bullet-dodge combat, save slots, and a heartbreaking UK robbery story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
